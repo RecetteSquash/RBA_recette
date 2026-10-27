@@ -1,3 +1,5 @@
+# language: en
+
 Feature: GH2 transmission with the TM tree structure
   Scenario: Transmit GH2 located in Sous-dossier 1 of Dossier 1
     Given the Gherkin test case GH2 is eligible and ready for transmission
